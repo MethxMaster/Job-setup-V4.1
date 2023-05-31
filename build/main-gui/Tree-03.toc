@@ -1,0 +1,5 @@
+('c:\\users\\jirameth.k\\anaconda3\\lib\\site-packages\\iqoptionapi-6.8.9.1-py3.8.egg',
+ None,
+ {'*.pyd', '*.pyw', '*.pyc', '*.py', '*.cp38-win_amd64.pyd', 'EGG-INFO'},
+ 'DATA',
+ [])
